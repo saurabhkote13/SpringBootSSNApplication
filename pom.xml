@@ -12,6 +12,7 @@
 	<artifactId>SSNDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SSNDemo</name>
+	<packaging>war</packaging>
 	<description>Social Security Number Enrollment and Verification</description>
 
 	<properties>
