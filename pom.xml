@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.assimilate</groupId>
-	<artifactId>SSNDemo</artifactId>
+	<artifactId>SpringBootSSNApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SSNDemo</name>
+	<name>SpringBootSSNApplication</name>
 	<packaging>war</packaging>
 	<description>Social Security Number Enrollment and Verification</description>
 
