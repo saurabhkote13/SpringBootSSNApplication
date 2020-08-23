@@ -1,0 +1,7 @@
+2020-08-20 00:02:00.535  INFO 38784 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-08-20 00:02:03.016  INFO 38784 --- [RMI TCP Connection(2)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-08-20 00:02:03.044 TRACE 38784 --- [RMI TCP Connection(2)-127.0.0.1] o.h.type.spi.TypeConfiguration$Scope     : Handling #sessionFactoryClosed from [org.hibernate.internal.SessionFactoryImpl@2f587df0] for TypeConfiguration
+2020-08-20 00:02:03.045 DEBUG 38784 --- [RMI TCP Connection(2)-127.0.0.1] o.h.type.spi.TypeConfiguration$Scope     : Un-scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration$Scope@2b82931f] from SessionFactory [org.hibernate.internal.SessionFactoryImpl@2f587df0]
+2020-08-20 00:02:03.310  INFO 38784 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-20 00:02:03.327  INFO 38784 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-11 - Shutdown initiated...
+2020-08-20 00:02:03.412  INFO 38784 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-11 - Shutdown completed.
