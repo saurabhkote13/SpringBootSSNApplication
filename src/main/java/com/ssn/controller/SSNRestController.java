@@ -25,6 +25,13 @@ public class SSNRestController {
 	@Autowired
 	private SSNService ssnService;
 	
+	@GetMapping("/hellomessage")
+	public String dispalyMessage(String message)
+	{
+		message="Hello Welcome to IT Industry";
+		return message;
+	}
+	
 	@GetMapping("/getAllStates")
 	public ResponseEntity<Object> getAllStates()
 	{
